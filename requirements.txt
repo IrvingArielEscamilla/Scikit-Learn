@@ -1,13 +1,13 @@
 ##### Core scientific packages
 jupyter==1.0.0
-matplotlib==3.0.3
-numpy==1.16.2
-pandas==0.24.1
-scipy==1.2.1
+#matplotlib==3.0.3
+#numpy==1.16.2
+#pandas==0.24.1
+#scipy==1.2.1
 
 
 ##### Machine Learning packages
-scikit-learn==0.20.3
+#scikit-learn==0.20.3
 
 # Optional: the XGBoost library is only used in the ensemble learning chapter.
 #xgboost==0.82
