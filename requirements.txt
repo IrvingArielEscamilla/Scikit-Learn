@@ -1,3 +1,6 @@
+### Create env with pip
+### 'pip install --upgrade pip'
+pip ==19.2.1
 ##### Core scientific packages
 jupyter==1.0.0
 matplotlib==3.0.3
@@ -7,7 +10,7 @@ scipy==1.2.1
 
 
 ##### Machine Learning packages
-scikit-learn==0.20.3
+scikit-learn==0.21.3
 
 # Optional: the XGBoost library is only used in the ensemble learning chapter.
 #xgboost==0.82
