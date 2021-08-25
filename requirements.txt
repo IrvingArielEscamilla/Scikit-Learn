@@ -23,7 +23,7 @@ scikit-learn==0.21.3
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
 tensorflow==1.13.1
-tensorflow-gpu==1.13.1
+tensorflow-gpu==2.5.1
 
 
 # Optional: OpenAI gym is only needed for the Reinforcement Learning chapter.
